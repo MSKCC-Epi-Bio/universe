@@ -1,9 +1,5 @@
 [
     {
-        "package": "synapser",
-        "url": "https://github.com/Sage-Bionetworks/synapser"
-    },
-    {
         "package": "genieBPC",
         "url": "https://github.com/GENIE-BPC/genieBPC"
     }
